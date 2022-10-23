@@ -1,0 +1,41 @@
+{
+  "TypesofRice": [
+    {
+      "name": "Basumati",
+      "weight": 5,
+      "price": 100
+    },
+    {
+      "name": "BiryaniRice",
+      "weight": 3,
+      "price": 110
+    }
+
+  ],
+  "TypesofPulses": [
+    {
+      "name": "GreenGram",
+      "weight": 5,
+      "price": 120
+    },
+    {
+      "name": "Dal",
+      "weight": 10,
+      "price": 100
+    }
+
+  ],
+  "TypesofWeats": [
+    {
+      "name": "Pure",
+      "weight": 10,
+      "price": 60
+    },
+    {
+      "name": "Middle",
+      "weight": 5,
+      "price": 30
+    }
+
+  ]
+}
